@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caneta BIC Preta",
-      "price": 5.89
+      "price": "5.90"
     },
     {
       "id": 2,
@@ -11,9 +11,9 @@
       "price": 12000.89
     },
     {
-      "id": 3,
-      "name": "Samsung S20+",
-      "price": 5000.89
+      "name": "Produto de Teste",
+      "price": "1937.02",
+      "id": 3
     }
   ]
 }
